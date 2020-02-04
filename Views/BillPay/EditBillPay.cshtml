@@ -1,0 +1,119 @@
+﻿@model Tuple<Customer, List<Payee>,BillPay>
+
+@{
+    ViewData["Title"] = "Schedule Bill Pay";
+}
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateBillPay">
+            <input name="billPayID" type="hidden" value="@Model.Item3.BillPayID" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label h4">From Account:</label>
+                <select name="accountNumber" class="required">
+                    <option value="" disabled selected>Choose account</option>
+                    @foreach (var account in Model.Item1.Accounts)
+                    {
+                        if (account.AccountNumber == Model.Item3.AccountNumber)
+                        {
+                            <option selected="selected" value="@account.AccountNumber">@Html.DisplayFor(x => account.AccountNumber)</option>
+                        }
+                        else
+                        {
+                            <option value="@account.AccountNumber">@Html.DisplayFor(x => account.AccountNumber)</option>
+                        }
+
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="control-label h4">To Payee:</label>
+                <select name="payeeID" class="required">
+                    <option value="" disabled selected>Choose Payee</option>
+                    @foreach (var payee in Model.Item2)
+                    {
+                        if (payee.PayeeID == Model.Item3.PayeeID)
+                        {
+                            <option selected="selected" value="@payee.PayeeID">@Html.DisplayFor(x => payee.PayeeName)</option>
+                        }
+                        else
+                        {
+                            <option value="@payee.PayeeID">@Html.DisplayFor(x => payee.PayeeName)</option>
+                        }
+
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="control-label h4">Amount:</label>
+                <input id="amount" name="amount" value="@Model.Item3.Amount"  class="form-control"
+                       data-val="true" data-val-number="The field Amount must be a number."
+                       data-val-required="The Amount field is required." />
+                @Html.ValidationMessage("amount", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <label class="control-label h4">Scheduled Date:</label>
+                <input  name="date" class="form-control" data-val="true" data-val-required="The Scheduled Date field is required."
+                       data-val-regex="The field Scheduled Date must be a date yyyy/MM/dd." data-val-regex-pattern="^\d{4}(\-|\/|\.)\d{1,2}\1\d{1,2}$"
+                       value="@Model.Item3.ScheduleDate"  placeholder="yyyy-MM-dd" />
+                @Html.ValidationMessage("date", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <label class="control-label h4">Period:</label>
+                <select name="period" class="required">
+                    <option value="" disabled selected>Choose Period</option>
+                    @if (Model.Item3.Period == 'M')
+                    {
+                        <option selected="selected" value="M">Monthly</option>
+                    }
+                    else
+                    {
+                        <option value="M">Monthly</option>
+                    }
+                    @if (Model.Item3.Period == 'Q')
+                    {
+                        <option selected="selected" value="Q">Quarterly</option>
+                    }
+                    else
+                    {
+                        <option value="Q">Quarterly</option>
+                    }
+                    @if (Model.Item3.Period == 'Y')
+                    {
+                        <option selected="selected" value="Y">Annually</option>
+                    }
+                    else
+                    {
+                        <option value="Y">Annually</option>
+                    }
+                    @if (Model.Item3.Period == 'S')
+                    {
+                        <option selected="selected" value="S">Once off</option>
+                    }
+                    else
+                    {
+                        <option value="S">Once off</option>
+                    }
+
+                    
+                </select>
+            </div>
+
+
+            <div class="form-group">
+                <p>
+                    @Html.ValidationMessage("Failed", new { @class = "text-danger" })
+                    @Html.ValidationMessage("Success", new { @class = "text-success" })
+                </p>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}

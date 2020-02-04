@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B7650906-82E5-49B5-9BC8-239C1FD68BAB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/SecurityController.cs">
+    <Files>
+      <File FileName="Controllers/BankController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/SecurityController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NWBA" expanded="True">
+            <Node name="NWBA" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="SecurityController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NWBA PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Business",
+    "\\Controllers",
+    "\\Data",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Bank",
+    "\\Views\\BillPay",
+    "\\Views\\Home",
+    "\\Views\\Login"
+  ],
+  "SelectedNode": "\\Models\\Customer.cs",
+  "PreviewInSolutionExplorer": false
+}

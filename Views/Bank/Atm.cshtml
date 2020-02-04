@@ -1,0 +1,88 @@
+﻿@model Customer
+@{
+    ViewData["Title"] = "ATM-Deposit";
+}
+
+<h1 class="display-4">Transation Details</h1>
+
+<div class="row">
+    <div class="col-md-6 my-3">
+        
+        <form asp-action="Atm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-6 col-md-6">
+                    Transation Type:
+                </div>
+                <div class="col-6 col-md-6">
+                    <select name="TransationType" class="browser-default custom-select custom-select-lg mb-3  required">
+                        <option value="" disabled selected>Choose your option</option>
+                        <option value="D">D</option>
+                        <option value="W">W</option>
+                        <option value="T">T</option>
+                    </select>
+                </div>
+                <div class="col-6 col-md-6">
+                    From Account:
+                </div>
+                <div class="col-6 col-md-6">
+                    <select name="FromAccount" class="browser-default custom-select custom-select-lg mb-3  required">
+                        <option value="" disabled selected>Choose from account</option>
+                        @foreach (var account in Model.Accounts)
+                        {
+                            <option value="@account.AccountNumber">@Html.DisplayFor(x => account.AccountNumber)</option>
+                        }
+                    </select>
+                </div>
+                <div class="col-6 col-md-6">
+                    To Account:
+                </div>
+                <div class="col-6 col-md-6">
+                    <select name="ToAccount" class="browser-default custom-select custom-select-lg mb-3">
+                        <option value="" disabled selected>Choose to account</option>
+                        @foreach (var account in Model.Accounts)
+                        {
+                            <option value="@account.AccountNumber">@Html.DisplayFor(x => account.AccountNumber)</option>
+                        }
+                    </select>
+                </div>
+                <div class="col-6 col-md-6">
+                    Amount:
+                </div>
+                <div class="form-group col-6 col-md-6">
+                    <input id="Amount" name="Amount" class="form-control" value="@ViewBag.Amount?.ToString("0.00")"
+                           data-val="true" data-val-number="The field Amount must be a number."
+                           data-val-required="The Amount field is required." />
+                    @Html.ValidationMessage("Amount", new { @class = "text-danger" })
+                </div>
+                <div class="col-6 col-md-6">
+                    Comment:
+                </div>
+                <div class="form-group col-6 col-md-6">
+                    <input id="Comment" name="Comment" class="form-control" value="@ViewBag.Comment"
+                           data-val="true" />
+
+                </div>
+                <div class="form-group col-12 col-md-12">
+                    @Html.ValidationMessage("Success", new { @class = "text-danger" })
+                    @Html.ValidationMessage("Failed", new { @class = "text-danger" })
+                </div>
+                    <div class="form-group col-6 col-md-6">
+                        <input type="button" value="Cancel Transation" class="btn btn-primary w-75" />
+                    </div>
+                    <div class="form-group col-6 col-md-6">
+                        <input type="submit" value="Execute Transation" class="btn btn-primary w-75" />
+                    </div>
+                </div>
+</form>
+        
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to ATM</a>
+</div>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
