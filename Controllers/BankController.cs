@@ -122,7 +122,7 @@ namespace NWBA.Controllers
             // Lazy loading.
             // The Customer.Accounts property will be lazy loaded upon demand.
             var customer = await _context.Customers.FindAsync(CustomerID);
-
+            // 11111
             return View(Tuple.Create(customer, new List<Transaction>()));
         }
         [HttpPost]
@@ -203,4 +203,5 @@ namespace NWBA.Controllers
             return View("~/Views/Bank/Profile.cshtml", Tuple.Create(customer, login));
         }
     }
+
 }
