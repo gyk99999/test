@@ -1,0 +1,68 @@
+﻿@model Tuple<Customer, List<Transaction>>
+@{
+    ViewData["Title"] = "Bank-Statement";
+}
+
+    <div class="row">
+        <div class="col-md-6 my-3">
+            <form asp-action="Statement">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row">
+
+                    <div class="col-4 col-md-4">
+                        Accounts:
+                    </div>
+                    <div class="col-4 col-md-4">
+                        <select name="accountNumber" class="required">
+                            <option value="" disabled selected>Choose account</option>
+                            @foreach (var account in Model.Item1.Accounts)
+                            {
+                                <option value="@account.AccountNumber">@Html.DisplayFor(x => account.AccountNumber)</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group col-4 col-md-4">
+                        <input type="submit" value="Statement" class="btn btn-primary w-75" />
+                    </div>
+                </div>
+            </form>
+            <div class="row">
+                <table class="table">
+                    <tr>
+                        <th>@Html.DisplayNameFor(x => x.Item2[0].TransactionType)</th>
+                        <th>@Html.DisplayNameFor(x => x.Item2[0].AccountNumber)</th>
+                        <th>@Html.DisplayNameFor(x => x.Item2[0].DestinationAccountNumber)</th>
+                        <th>@Html.DisplayNameFor(x => x.Item2[0].Amount)</th>
+                        <th>@Html.DisplayNameFor(x => x.Item2[0].Comment)</th>
+                        <th>@Html.DisplayNameFor(x => x.Item2[0].TransactionTimeUtc)</th>
+                    </tr>
+                    @foreach (var transaction in Model.Item2)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(x => transaction.TransactionType)</td>
+                            <td>@Html.DisplayFor(x => transaction.AccountNumber)</td>
+                            <td>@Html.DisplayFor(x => transaction.DestinationAccountNumber)</td>
+                            <td>@Html.DisplayFor(x => transaction.Amount)</td>
+                            <td>@Html.DisplayFor(x => transaction.Comment)</td>
+                            <td>@Html.DisplayFor(x => transaction.TransactionTimeUtc)</td>
+                        </tr>
+                    }
+                </table>
+                <div class="col-md-6">
+                    <form asp-action="Statement">
+                        <input type="hidden" name="accountNumber" value="@ViewData["AccountNumber"]">
+                        <input type="hidden" name="pageIndex" value="@ViewData["PreviousPageIndex"]">
+                        <input type="submit" value="Previous Page" class="btn btn-primary w-50" />
+                    </form>
+                </div>
+                <div class="col-md-6">
+                    <form asp-action="Statement">
+                        <input type="hidden" name="accountNumber" value="@ViewData["AccountNumber"]">
+                        <input type="hidden" name="pageIndex" value="@ViewData["NextPageIndex"]">
+                        <input type="submit" value="Next Page" class="btn btn-primary w-50 ml-3" />
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>

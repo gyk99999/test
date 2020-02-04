@@ -1,0 +1,33 @@
+﻿@model List<BillPay>
+@{
+    ViewData["Title"] = "Bill Pay Records";
+}
+
+<div>
+    <table class="table">
+        <tr>
+            <th></th>
+            <th>@Html.DisplayNameFor(x => x[0].AccountNumber)</th>
+            <th>@Html.DisplayNameFor(x => x[0].PayeeID)</th>
+            <th>@Html.DisplayNameFor(x => x[0].Amount)</th>
+            <th>@Html.DisplayNameFor(x => x[0].ScheduleDate)</th>
+            <th>@Html.DisplayNameFor(x => x[0].Period)</th>
+
+        </tr>
+        @foreach (var billPay in Model)
+        {
+    <tr>
+        <td>
+            <a class="btn btn-primary"
+               asp-action="EditBillPay" asp-route-id="@billPay.BillPayID">Midify</a>
+        </td>
+        <td>@Html.DisplayFor(x => billPay.AccountNumber)</td>
+        <td>@Html.DisplayFor(x => billPay.PayeeID)</td>
+        <td>@Html.DisplayFor(x => billPay.Amount)</td>
+        <td>@Html.DisplayFor(x => billPay.ScheduleDate)</td>
+        <td>@Html.DisplayFor(x => billPay.Period)</td>
+
+    </tr>
+        }
+    </table>
+</div>

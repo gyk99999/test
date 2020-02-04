@@ -1,0 +1,79 @@
+﻿@model  Tuple<Customer, Login>
+
+    @{
+        ViewData["Title"] = "Profile";
+    }
+
+
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="UpdateProfile">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="@Model.Item2.LoginID" class="control-label h4"></label>
+                    <input asp-for="@Model.Item2.LoginID" class="form-control" value="@Model.Item2.LoginID" readonly />
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Item1.Name" class="control-label h4"></label>
+                    <input name="Name" asp-for="@Model.Item1.Name" class="form-control" value="@Model.Item1.Name" required />
+                    <span asp-validation-for="@Model.Item1.Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Item1.Address" class="control-label h4"></label>
+                    <input name="Address" asp-for="@Model.Item1.Address" class="form-control" value="@Model.Item1.Address" />
+                    <span asp-validation-for="@Model.Item1.Address" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Item1.City" class="control-label h4"></label>
+                    <input name="City" asp-for="@Model.Item1.City" class="form-control" value="@Model.Item1.City" />
+                    <span asp-validation-for="@Model.Item1.City" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Item1.PostCode" class="control-label h4"></label>
+                    <input name="PostCode" class="form-control" value="@Model.Item1.PostCode" />
+                </div>
+                
+                <div class="form-group">
+                    <p>
+                        @Html.ValidationMessage("UpdateFailed", new { @class = "text-danger" })
+                        @Html.ValidationMessage("UpdateSuccess", new { @class = "text-success" })
+                    </p>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Update" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="ChangePassword">
+                <div class="form-group">
+                    <input name="LoginID" type="hidden" value="@Model.Item2.LoginID" />
+                    <label class="control-label h4">Old Password</label>
+                    <input name="oldPassword" type="password" class="form-control" required/>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label h4">New Password</label>
+                    <input name="NewPassword" type="password" class="form-control" required/>
+                </div>
+                <div class="form-group">
+                    <label class="control-label h4">Confirm Password</label>
+                    <input name="confirmPassword" type="password" class="form-control" required/>
+                </div>
+                <div class="form-group">
+                    <p>
+                        @Html.ValidationMessage("PasswordFailed", new { @class = "text-danger" })
+                        @Html.ValidationMessage("PasswordSuccess", new { @class = "text-success" })
+                    </p>
+                </div>
+                    <div class="form-group">
+                        <input type="submit" value="Change Password" class="btn btn-primary" />
+                    </div>
+            </form>
+        </div>
+    </div>
+    @section Scripts {
+        @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+    }

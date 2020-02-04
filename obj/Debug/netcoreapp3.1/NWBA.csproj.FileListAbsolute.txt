@@ -1,0 +1,302 @@
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/NWBA
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/NWBA.deps.json
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/NWBA.runtimeconfig.json
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/NWBA.runtimeconfig.dev.json
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/NWBA.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/NWBA.pdb
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/NWBA.Views.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/NWBA.Views.pdb
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.csprojAssemblyReference.cache
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/staticwebassets/NWBA.StaticWebAssets.Manifest.cache
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/staticwebassets/NWBA.StaticWebAssets.xml
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.MvcApplicationPartsAssemblyInfo.cache
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.RazorAssemblyInfo.cache
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.RazorAssemblyInfo.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.AssemblyInfoInputs.cache
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.AssemblyInfo.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.TagHelpers.input.cache
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.TagHelpers.output.cache
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.RazorCoreGenerate.cache
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.RazorTargetAssemblyInfo.cache
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.RazorTargetAssemblyInfo.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.Views.pdb
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.csproj.CopyComplete
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/NWBA.pdb
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/bin/Debug/netcoreapp3.1/SimpleHashing.dll
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Bank/Index.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Bank/Profile.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Bank/Statement.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Login/Login.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/Bank/Atm.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/BillPay/BillPayRecords.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/BillPay/index.cshtml.g.cs
+/Users/tom/Google 云端硬盘/补课/莫纳什 盖地虎/2020/WDT.Day05.archive.TL/Exercise1/NWBA/obj/Debug/netcoreapp3.1/Razor/Views/BillPay/EditBillPay.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/NWBA
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/NWBA.deps.json
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/NWBA.runtimeconfig.json
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/NWBA.runtimeconfig.dev.json
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/NWBA.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/NWBA.pdb
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/NWBA.Views.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/NWBA.Views.pdb
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/SimpleHashing.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/gyk/Desktop/NWBA 2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.csprojAssemblyReference.cache
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/staticwebassets/NWBA.StaticWebAssets.Manifest.cache
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/staticwebassets/NWBA.StaticWebAssets.xml
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.MvcApplicationPartsAssemblyInfo.cache
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.RazorAssemblyInfo.cache
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.RazorAssemblyInfo.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.AssemblyInfoInputs.cache
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.AssemblyInfo.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.TagHelpers.input.cache
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.TagHelpers.output.cache
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.RazorCoreGenerate.cache
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Bank/Atm.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Bank/Index.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Bank/Profile.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Bank/Statement.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/BillPay/BillPayRecords.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/BillPay/EditBillPay.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/BillPay/index.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Login/Login.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.RazorTargetAssemblyInfo.cache
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.RazorTargetAssemblyInfo.cs
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.Views.pdb
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.csproj.CopyComplete
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.dll
+/Users/gyk/Desktop/NWBA 2/obj/Debug/netcoreapp3.1/NWBA.pdb
+C:\Users\Yi Kun\Desktop\NWBA 2\obj\Debug\netcoreapp3.1\NWBA.dll
+C:\Users\Yi Kun\Desktop\NWBA 2\obj\Debug\netcoreapp3.1\NWBA.pdb
