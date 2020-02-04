@@ -113,10 +113,10 @@ namespace NWBA.Controllers
             // Lazy loading.
             // The Customer.Accounts property will be lazy loaded upon demand.
             var customer = await _context.Customers.FindAsync(CustomerID);
-
+            // 321fdsafsdafdsaf
             return View(customer);
         }
-
+        // rewqrewqrewqrwerq
         public async Task<IActionResult> Statement()
         {
             // Lazy loading.
