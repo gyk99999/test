@@ -6,6 +6,7 @@ namespace NWBA.Models
 {
     public class Customer
     {
+        // d a dsd sa d
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int CustomerID { get; set; }
 
