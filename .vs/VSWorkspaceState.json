@@ -11,6 +11,6 @@
     "\\Views\\Home",
     "\\Views\\Login"
   ],
-  "SelectedNode": "\\Controllers\\BankController.cs",
+  "SelectedNode": "\\Models\\Customer.cs",
   "PreviewInSolutionExplorer": false
 }

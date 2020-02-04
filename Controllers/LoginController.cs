@@ -32,7 +32,7 @@ namespace NWBA.Controllers
 
             return RedirectToAction("Index", "Customer");
         }
-
+        // fdsa fdsatr weqgt ert q tweqtweqt
         [Route("LogoutNow")]
         public IActionResult Logout()
         {
