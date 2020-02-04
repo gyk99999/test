@@ -22,7 +22,7 @@ namespace NWBA.Controllers
         private int CustomerID => HttpContext.Session.GetInt32(nameof(Customer.CustomerID)).Value;
 
         public BankController(NwbaContext context) => _context = context;
-
+        // s s s s s s s s
         public async Task<IActionResult> Index()
         {
             // Lazy loading.
