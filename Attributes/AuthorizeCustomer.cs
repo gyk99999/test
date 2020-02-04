@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using NWBA.Models;
 
+
 namespace NWBA.Attributes
 {
     public class AuthorizeCustomerAttribute : Attribute, IAuthorizationFilter
