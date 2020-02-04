@@ -17,7 +17,7 @@ namespace NWBA.Controllers
     public class BankController : Controller
     {
         private readonly NwbaContext _context;
-
+        // fdsaf dsaf sdaf sdaf asdf
         // ReSharper disable once PossibleInvalidOperationException
         private int CustomerID => HttpContext.Session.GetInt32(nameof(Customer.CustomerID)).Value;
 
